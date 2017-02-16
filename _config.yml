@@ -1,8 +1,8 @@
 # Site settings
 title: My Blog
-email: coolwebconfs@gmail.com
+email: christopher.jativa320@outlook.com
 description: My simple blog.
-baseurl: ""
+baseurl: "/blog"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Christopher D Jativa" # Set default author name
+      categories: "Computer Science"
       layout: "post"
       comments: true
   -
